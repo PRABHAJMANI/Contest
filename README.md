@@ -1,5 +1,3 @@
-# README.md
-
 ## Project SpiderBot
 
 This repository contains the electronics and ROS-based work on Project SpiderBot developed during college. The focus was on integrating hardware components with a robust software stack to control a hexapod robotic platform.
